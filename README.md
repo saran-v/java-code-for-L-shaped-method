@@ -11,4 +11,4 @@ It uses two types of files .mps file, .tim file and a .sto file. .mps file is us
 Citation:
 To cite the code used in this repository, use the following citation:
 
-S. Venkatachalam. Java Code for L-shaped method. https://github.com/bengu77/java-code-for-L-shaped-method/, 2020.
+S. Venkatachalam. Java Code for L-shaped method. https://github.com/saran-v/java-code-for-L-shaped-method/, 2020.
